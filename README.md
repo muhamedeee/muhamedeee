@@ -3,9 +3,10 @@
 <p>
     Im an aspiring developer interested in automation and testing. I started my journey with building PCs, fixing hardware and now I want to contribute to digital world.
   All my projects were built through my learning process with purpose to be useful in real life.
+    <img align=right width=150 src="assets/matrix-neo.gif"/>
 </p>
-  <img src="assets/matrix-neo.gif" alt="Demo" width="150" style="float: right; margin-left: 10px;">
-
+ 
+    
 - 👨‍💻 I’m currently working on expenses tracker app
 - 🔄 I’m currently learning automation and testing
 - 🎓 Attending Harvard's CS50x
