@@ -1,22 +1,15 @@
-## Hi there 👋
+## Hi there I'm Muhamed 👋
 
-<!--
-**muhamedeee/muhamedeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on expenses tracker app
-- 🌱 I’m currently learning automation and testing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 <p>
     Im an aspiring developer interested in automation and testing. I started my journey with building PCs, fixing hardware and now I want to contribute to digital world.
   All my projects were built through my learning process with purpose to be useful in real life.
 </p>
-  <img src="assets/cat-hug.gif" alt="Demo" width="150" style="float: right; margin-left: 10px;">
+  <img src="assets/matrix-neo.gif" alt="Demo" width="150" style="float: right; margin-left: 10px;">
+
+- 👨‍💻 I’m currently working on expenses tracker app
+- 🔄 I’m currently learning automation and testing
+- 🎓 Attending Harvard's CS50x
+
 
 ### TOOLS AND LANGUAGES:
 <div style="display: flex;">
