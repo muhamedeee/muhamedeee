@@ -7,7 +7,11 @@
 </p>
  
     
-- 👨‍💻 I’m currently working on expenses tracker app (See DEMO: https://www.youtube.com/watch?v=G-71lMS3w58)  
+- 👨‍💻 I’m currently working on expenses tracker app (See DEMO:
+- 
+  https://www.youtube.com/watch?v=G-71lMS3w58)  and bot/test DEMO:
+  
+  https://www.youtube.com/watch?v=Q6dtIxf8pk4
 - 🔄 I’m currently learning automation and testing
 - 🎓 Attending Harvard's CS50x
 
