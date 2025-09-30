@@ -7,8 +7,8 @@
 </p>
  
     
-- 👨‍💻 I’m currently working on expenses tracker app (See DEMO:
-- 
+- 👨‍💻 I’m currently working on expenses tracker program (See DEMO:
+
   https://www.youtube.com/watch?v=G-71lMS3w58)  and bot/test DEMO:
   
   https://www.youtube.com/watch?v=Q6dtIxf8pk4
